@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00C896"          # Verde neon para botões
+backgroundColor = "#1E1E1E"       # Preto suave
+secondaryBackgroundColor = "#2C2C2C"
+textColor = "#FFFFFF"
+font = "sans serif"
